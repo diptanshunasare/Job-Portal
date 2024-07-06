@@ -1,0 +1,16 @@
+
+
+.bg-custom{
+    background-color: #292929 ;
+}
+.navbar .nav-item .nav-link{
+    font-size: 15px;
+    color: white;
+}
+.navbar .nav-item:hover .nav-link{
+    color: black !important;
+    background: #F3F6FA ;
+    border-radius: 15px;
+}
+
+

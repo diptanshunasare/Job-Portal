@@ -1,0 +1,13 @@
+com\servlet\AddPostServlet.class
+com\DAO\JobDAO.class
+com\servlet\LoginServlet.class
+com\servlet\RegisterServlet.class
+com\DAO\UserDAO.class
+com\entity\Jobs.class
+com\myservlet\jobportal\JakartaRestConfiguration.class
+com\DB\ConnectionProvider.class
+com\servlet\LogOut.class
+com\myservlet\jobportal\resources\JakartaEE8Resource.class
+com\entity\User.class
+com\servlet\DeleteJobServlet.class
+com\servlet\UpdateJobServlet.class
